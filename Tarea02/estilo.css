@@ -1,0 +1,23 @@
+*{
+    padding:0px;
+    margin: 0px;
+    
+}
+
+body{
+    
+   background-color:crimson;
+   font-family: Cambria;
+   background: url(fondo.jpg) no-repeat center fixed;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+   
+}
+
+h1{
+
+    color: crimson;
+    font-family:arial;
+}
